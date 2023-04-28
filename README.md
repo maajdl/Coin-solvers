@@ -19,4 +19,9 @@ https://github.com/coin-or
         
 **coin solver provided by AMPL**       
 https://github.com/ampl/coin/releases        
-https://portal.ampl.com/user/ampl/download/list?legacy
+https://portal.ampl.com/user/ampl/download/list?legacy      
+https://portal.ampl.com/download/coin.linux-intel32.20230221.tgz      
+https://portal.ampl.com/download/coin.linux-intel64.20230221.tgz      
+https://portal.ampl.com/download/coin.macos64.20211124.tgz      
+https://portal.ampl.com/download/coin.mswin32.20230221.zip      
+https://portal.ampl.com/download/coin.mswin64.20230221.zip  
