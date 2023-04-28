@@ -1,2 +1,2 @@
 ## Coin-solvers
-The coin solvers that I wish to keep, in case to original repository changes or disappears!
+The coin solvers that I wish to keep, in case the original repository changes or disappears!
