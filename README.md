@@ -1,5 +1,5 @@
 ## Coin-solvers
-The coin solvers that I wish to keep!     
+The coin solvers that I wish to keep "in a safe"!     
 Ipopt is the one I use the most from Pyomo.     
 Bonmin, Cbc, Couenne could also be of interest.
    
