@@ -1,7 +1,17 @@
-## Coin-solvers
-The coin solvers that I wish to keep "in a safe"!     
+## Coin-solvers I could use with Pyomo
 Ipopt is the one I use the most from Pyomo.     
-Bonmin, Cbc, Couenne could also be of interest.
+The coin solvers that I wish to keep "in a safe" are:     
+Bonmin, Cbc, Couenne and Ipopt.
+   
+**Pyomo documentation**:     
+https://pyomo.readthedocs.io/en/latest/index.html      
+- **Using conda it is possible to install both Pyomo and the solvers ipopt and Glpk:**    
+conda install -c conda-forge pyomo     
+conda install -c conda-forge ipopt glpk 
+- **Using pip only Pyomo can be intalled:**    
+pip install pyomo     
+the solvers need to be copied to an ad-hoc folder from where it is accessible to Pyomo
+
    
 **coin-or main site**:     
 https://www.coin-or.org/     
@@ -30,4 +40,4 @@ https://portal.ampl.com/download/coin.linux-intel32.20230221.tgz
 https://portal.ampl.com/download/coin.linux-intel64.20230221.tgz      
 https://portal.ampl.com/download/coin.macos64.20211124.tgz      
 https://portal.ampl.com/download/coin.mswin32.20230221.zip      
-https://portal.ampl.com/download/coin.mswin64.20230221.zip      
+https://portal.ampl.com/download/coin.mswin64.20230221.zip   
