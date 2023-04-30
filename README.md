@@ -4,7 +4,7 @@ The coin solvers that I wish to keep "in a safe" are: Bonmin, Cbc, Couenne and I
 Below are some links where the binaries were available in May 2023.
    
 **Pyomo documentation**:     
-http://www.pyomo.org/
+http://www.pyomo.org/     
 https://pyomo.readthedocs.io/en/latest/index.html      
 - **Using conda it is possible to install both Pyomo and the solvers ipopt and Glpk:**    
 conda install -c conda-forge pyomo     
